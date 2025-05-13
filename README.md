@@ -1,4 +1,4 @@
-💼 Deloitte Australia Job Simulation – Data Analyst Role
+💼Deloitte Australia Job Simulation – Data Analyst Role
 This project was completed as part of the Forage Deloitte Australia Virtual Job Simulation. It simulates real-world tasks a data analyst might be expected to perform at Deloitte, including data cleaning, analysis, visualization, and insight generation.
 
 📌 Project Overview
