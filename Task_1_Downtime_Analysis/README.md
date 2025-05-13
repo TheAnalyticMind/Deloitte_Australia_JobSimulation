@@ -13,7 +13,7 @@ Analyze telemetry data from four Daikibo factories to answer:
   - Meiyo (Tokyo)
   - Seiko (Osaka)
   - Berlin (Germany)
-  - Shenzhen (China)
+  - Shenzhen (China0
 
 Each location has 9 types of machines, and the goal is to identify machine and location-specific performance issues.
 
